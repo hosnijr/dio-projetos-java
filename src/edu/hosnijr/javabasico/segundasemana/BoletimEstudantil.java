@@ -7,7 +7,7 @@ public class BoletimEstudantil {
         if(mediaFinal<6)	
             System.out.println("REPROVADO"); 
         else if (mediaFinal==6)
-            System.out.println("PROVA MINERVA"); 
+            System.out.println("PROVA DE RECUPERACAO"); 
         else
             System.out.println("APROVADO"); 		
     }
